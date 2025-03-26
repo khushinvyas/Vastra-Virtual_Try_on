@@ -78,6 +78,8 @@ The **VITON-HD dataset** (Kaggle) is used, comprising:
 ```
 
 ## Methodology Flowchart
+![Vastra Screenshot](https://raw.githubusercontent.com/khushinvyas/Vastra-Virtual_Try_on/main/Screenshot%202025-03-26%20125643.png)
+
 
 ## Results
 The system effectively generates **realistic virtual try-on experiences**, improving user engagement and online shopping efficiency. Experimental validation demonstrates its ability to align garments naturally while preserving textures and details.
